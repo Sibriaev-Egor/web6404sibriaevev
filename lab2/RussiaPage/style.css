@@ -1,0 +1,29 @@
+.container {
+    width: 100%;
+
+}
+.part {
+    padding: 20px 20px 0 20px;
+}
+
+h1 {
+    margin-bottom: -15px;
+}
+
+img {
+    width: 826px;
+    height: 511px;
+    padding-left: 10%;
+    padding-right: 10%;
+}
+
+.img-text {
+    font-size: 90%;
+    text-align: center;
+    color: #9f9f9b;
+}
+
+.part p {
+    text-indent: 20px;
+    text-align: justify;
+}

@@ -1,0 +1,50 @@
+.articles {
+    float: left;
+    width: 33%;
+}
+
+.news {
+    float: right;
+    width: 64%;
+    margin-right: 10px;
+}
+
+.news-border {
+    border: 1px solid #dcdcdc;
+    clear: left;
+}
+
+.news-container {
+    padding: 10px;
+    margin-bottom: 10px;
+    text-align: justify;
+}
+
+.news-container a {
+    font-weight: bold;
+    font-size: 110%;
+    text-align: left;
+    text-decoration: underline
+}
+
+.articles-container {
+    display: flex;
+    text-align: justify;
+    clear: left;
+    padding-top: 10px;
+}
+
+.articles-container img {
+    float: left;
+    width: 87px;
+    height: 121px;
+}
+
+.articles-container a {
+    padding-left: 10px;
+    display: block;
+    text-align: justify;
+    font-size: 110%;
+    text-indent: 0;
+    text-decoration: underline
+}
