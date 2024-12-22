@@ -5,7 +5,35 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="4b834794-5ab0-4641-9056-93694200cfbd" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/lab3/src/core.js" beforeDir="false" afterPath="$PROJECT_DIR$/lab3/src/core.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lab4/data.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lab4/js/request.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lab4/js/validator.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lab2/RussiaPage/Russia.html" beforeDir="false" afterPath="$PROJECT_DIR$/lab4/RussiaPage/Russia.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lab2/RussiaPage/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/lab4/RussiaPage/style.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lab2/activityPage/activity.html" beforeDir="false" afterPath="$PROJECT_DIR$/lab4/activityPage/activity.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lab2/activityPage/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/lab4/activityPage/style.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lab2/images/background.jfif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lab2/images/background2.jfif" beforeDir="false" afterPath="$PROJECT_DIR$/lab4/images/background2.jfif" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lab2/images/info.png" beforeDir="false" afterPath="$PROJECT_DIR$/lab4/images/info.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lab2/images/reports/report1.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/lab4/images/reports/report1.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lab2/images/reports/report2.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/lab4/images/reports/report2.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lab2/images/reports/report3.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/lab4/images/reports/report3.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lab2/images/russia/air.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/lab4/images/russia/air.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lab2/images/russia/water.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/lab4/images/russia/water.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lab2/infoPage/info.html" beforeDir="false" afterPath="$PROJECT_DIR$/lab4/infoPage/info.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lab2/infoPage/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/lab4/infoPage/style.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lab2/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/lab4/style.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lab2/welcomePage/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/lab4/welcomePage/style.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lab2/welcomePage/welcome.html" beforeDir="false" afterPath="$PROJECT_DIR$/lab4/welcomePage/welcome.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lab3/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lab3/.prettierignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lab3/.prettierrc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lab3/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lab3/package.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lab3/src/core.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lab3/src/core.spec.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -17,6 +45,7 @@
       <list>
         <option value="HTML File" />
         <option value="CSS File" />
+        <option value="JavaScript File" />
       </list>
     </option>
   </component>
@@ -27,27 +56,30 @@
     <option name="stateVersion" value="1" />
   </component>
   <component name="ProjectId" id="2oZs7gPdheoVVlHqejsU5bS7BXR" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;DefaultHtmlFileTemplate&quot;: &quot;HTML File&quot;,
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
-    &quot;last_opened_file_path&quot;: &quot;C:/Projects/Web labs/web6404sibriaevev&quot;,
-    &quot;list.type.of.created.stylesheet&quot;: &quot;CSS&quot;,
-    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
-    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
-    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
-    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
-    &quot;nodejs.mocha.mocha_node_package_dir&quot;: &quot;C:/Projects/Web labs/web6404sibriaevev/lab3/node_modules/mocha&quot;,
-    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
-    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "DefaultHtmlFileTemplate": "HTML File",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "last_opened_file_path": "C:/Users/User/Desktop/Папка/Проекты/Nodejs проекты/shked-flomaster_v2.0",
+    "list.type.of.created.stylesheet": "CSS",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs.mocha.mocha_node_package_dir": "C:/Projects/Web labs/web6404sibriaevev/lab3/node_modules/mocha",
+    "nodejs_package_manager_path": "npm",
+    "vue.rearranger.settings.migration": "true"
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\Projects\Web labs\web6404sibriaevev\lab2\welcomePage" />
@@ -68,7 +100,7 @@
       <workItem from="1731847474077" duration="13728000" />
       <workItem from="1732802272023" duration="213000" />
       <workItem from="1732804890994" duration="1556000" />
-      <workItem from="1734788465125" duration="631000" />
+      <workItem from="1734788465125" duration="29457000" />
     </task>
     <servers />
   </component>
