@@ -22,7 +22,7 @@ function sumTo(n) {
     let s = 0
     let s1 = 1
     let j = 0
-    for (let i = 1; n != 0; i *= 2) {
+    for (let i = 1; n !== 0; i *= 2) {
         if (n%2 === 1) {
             s += s1 + i*j
             j += i
