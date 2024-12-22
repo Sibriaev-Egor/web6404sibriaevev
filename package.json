@@ -1,0 +1,19 @@
+{
+  "name": "web6404sibriaevev",
+  "version": "1.0.0",
+  "description": "Сибряев Егор Витальевич 6404-010302D",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Sibriaev-Egor/web6404sibriaevev.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Sibriaev-Egor/web6404sibriaevev/issues"
+  },
+  "homepage": "https://github.com/Sibriaev-Egor/web6404sibriaevev#readme"
+}

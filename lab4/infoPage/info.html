@@ -1,0 +1,76 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>О нас</title>
+    <link rel="stylesheet" type="text/css" href="../style.css">
+    <link rel="stylesheet" type="text/css" href="style.css">
+    <script src="../js/validator.js"></script>
+</head>
+<body>
+<div class="animation">
+    <img src="../images/new_year.png" alt="">
+</div>
+<div class="base">
+    <div class="navigation">
+        <table>
+            <tr>
+                <td><a href="../welcomePage/welcome.html">Новости</a></td>
+                <td><a href="../activityPage/activity.html">События</a></td>
+                <td><a href="../RussiaPage/Russia.html">Россия</a></td>
+            </tr>
+        </table>
+    </div>
+    <div class="base-text">
+        <div class="container">
+            <div class="block">
+                <h1>О нас!</h1>
+            </div>
+            <div class="block">
+                Тут должно что-то быть...
+            </div>
+            <div class="block">
+                <div class = "register-container">
+                    <h3>Задайте нам вопрос на почту!</h3>
+                    <form id="form" action="http://127.0.0.1:8000/home" method="POST">
+                        <div class = "field">
+                            <label for="name">Имя:</label>
+                            <input type="text" id="name" name="name" placeholder="Введите ваше имя" required style="width: 95%">
+                            <span class="error-message" id="name-error"></span>
+                        </div>
+                        <div class = "field">
+                            <label for="email">email:</label>
+                            <input type="text" id="email" name="name" placeholder="Введите вашу почту" required style="width: 95%">
+                            <span class="error-message" id="email-error"></span>
+                        </div>
+                        <div class = "field">
+                            <label for="message">Сообщение:</label>
+                            <textarea id="message" name="message" rows="5" placeholder="Введите ваше сообщение" required style="width: 95%"></textarea>
+                            <span class="error-message" id="message-error"></span>
+                        </div>
+                        <div>
+                            <button type="submit">Отправить вопрос</button>
+                        </div>
+                    </form>
+                </div>
+            </div>
+        </div>
+    </div>
+    <div style="margin-top: 5px" class="navigation">
+        <table>
+            <tr>
+                <td><a href="../infoPage/info.html">О нас</a></td>
+            </tr>
+        </table>
+    </div>
+    <div class="info">
+        <p>
+            Лабораторная работа 4 <br>
+            Сибряев Егор Витальевич
+            <b> 6404</b> <br>
+            2024
+        </p>
+    </div>
+</div>
+</body>
+</html>
