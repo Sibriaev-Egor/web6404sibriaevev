@@ -24,7 +24,6 @@ document.addEventListener("DOMContentLoaded", () => {
             });
             console.log("OK!")
         } catch (error) {
-            console.log("gkfslkfms")
             console.error("Ошибка при загрузке контактов:", error);
             news.innerHTML = `<p>Ошибка загрузки данных!</p>`
         }
