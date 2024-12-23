@@ -132,7 +132,7 @@ function sequence(start, step) {
 function deepEqual(firstObject, secondObject) {
     if (Number.isNaN(firstObject) || Number.isNaN(secondObject)) return Number.isNaN(firstObject) === Number.isNaN(secondObject)
     if (typeof firstObject !== typeof secondObject) return false
-    if (typeof firstObject != typeof [] || firstObject === null || firstObject === undefined || secondObject === null ||
+    if (typeof firstObject !== typeof [] || firstObject === null || firstObject === undefined || secondObject === null ||
         secondObject === undefined) return firstObject === secondObject
     const objKeys1 = Object.keys(firstObject);
     const objKeys2 = Object.keys(secondObject);
